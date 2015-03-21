@@ -6,3 +6,6 @@ In order to run this program, you have to run: python encrypt.py secret.txt publ
 
 ###Decrypt.py
 Inorder to run this program, you have to run: python decrypt.py file_1.txt file_2.txt file_3.txt public_key_alice.pem private_key_bob.pem
+
+###Generate_Keys.py
+The following python script generates an RSA key pair
